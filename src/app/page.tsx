@@ -1,7 +1,7 @@
-import { NavBar } from "./Components/Navbar";
-import { HomeCarousel } from "./Components/Carousel";
-import { HomeBanner } from "./Components/HomeBanner";
-import { VideoBanner } from "./Components/VideoBanner";
+import { NavBar } from "./components/Navbar";
+import { HomeCarousel } from "./components/Carousel";
+import { HomeBanner } from "./components/HomeBanner";
+import { VideoBanner } from "./components/VideoBanner";
 export default function Home() {
   return (
     <section>
